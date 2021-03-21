@@ -9,7 +9,7 @@ To run the code follow these steps:
 
 * Make sure you have all the required libraries installed: opencv, keras, tensorflow, numpy and playsound
 
-* Clone this repo to your local machine using `git clone github.com/aaron-visschedijk/hit-the-sound-running`
+* Clone this repo to your local machine using `git clone https://github.com/aaron-visschedijk/hit-the-sound-running`
 
 * Move to the `/src` directory and run `python main.py`
 
