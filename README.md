@@ -2,7 +2,7 @@
 
 This is our submission to the mercedes benz case for starthack 2021. 
 Our prototype can identify positive and negative emotions and changes the music based on these emotions. 
-For a more detailed description check out our draft.pdf
+For a more detailed description check out our draft.pdf.
 
 
 To run the code follow these steps:
