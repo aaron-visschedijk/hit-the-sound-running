@@ -14,5 +14,5 @@ To run the code follow these steps:
 * Move to the `/src` directory and run `python main.py`
 
 
-The provided model was trained using the [fer2013 dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+The provided model was trained using the [fer2013 dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data).
 Furthermore, our neural network code is partly inspired by https://github.com/neha01/Realtime-Emotion-Detection.
